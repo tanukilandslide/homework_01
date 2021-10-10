@@ -147,6 +147,9 @@ img{
         
     }
     
+    h1{
+        font-size: 72px;
+    }
     
     h2{
         font-size:48px;
@@ -169,7 +172,7 @@ img{
         padding: 0px;
     }
     
-    .history-header-line-two, .xia-dynasty-line-two{
+     .xia-dynasty-line-two{
     display: inline;
     }
     

@@ -99,6 +99,10 @@ button{
     display: block;
     margin: 0 auto;
     cursor: crosshair;
+    font-family: didot, serif;
+    color: #D9E8F0;
+    font-weight: bold;
+    font-size: 28px;
     
 }
 
